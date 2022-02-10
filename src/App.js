@@ -1,12 +1,15 @@
-import logo from './logo.svg';
+
 import './App.css';
+import NavbarCom from './componnets/Navbar';
+
 
 function App() {
   return (
     <div className="App">
-   app
+   <NavbarCom/>
     </div>
   );
 }
 
 export default App;
+ 
